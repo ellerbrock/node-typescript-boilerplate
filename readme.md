@@ -1,10 +1,25 @@
-![TypeScript Boilerplate](https://github.frapsoft.com/top/typescript-boilerplate.jpg?v=101)
+![TypeScript Boilerplate](https://github.frapsoft.com/top/node-typescript-boilerplate.jpg?v=101)
 
 # Node.js TypeScript Boilerplate
 
-__
+[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![Standard Version](https://img.shields.io/badge/release-standard%20version-brightgreen.svg)](https://github.com/conventional-changelog/standard-version) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badges/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+
+_TypeScript Boilerplate for Node.js Developers_
+
+## Project Status
+
+[![Build Status](https://travis-ci.org/ellerbrock/node-developer-boilerplate.svg?branch=master)](https://travis-ci.org/ellerbrock/node-developer-boilerplate) [![codecov](https://codecov.io/gh/ellerbrock/node-developer-boilerplate/branch/master/graph/badge.svg)](https://codecov.io/gh/ellerbrock/node-developer-boilerplate) ![dependencies](https://david-dm.org/ellerbrock/node-developer-boilerplate.svg)
 
 ## Documentation
+
+### Whats inside ?
+
+- compile & life reload
+- ...
+
+### Videos
+
+- [TypeScript Best Practices](https://vimeo.com/175424129)
 
 ### TypeScript Language
 
