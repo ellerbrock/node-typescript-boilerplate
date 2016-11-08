@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "pretty": true,
+    "sourceMap": false,
+    "outDir": "build",
+    "types": [
+      "node",
+      "chai",
+      "mocha"
+    ]
+  },
+  "include": [
+    "src/*.ts",
+    "example/*.ts",
+    "test/*.ts"
+  ]
+}
