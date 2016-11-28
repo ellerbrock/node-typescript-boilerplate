@@ -12,10 +12,16 @@ _TypeScript Boilerplate for Node.js Developers_
 
 ## Documentation
 
-### Whats inside ?
+**Info:**
 
-- compile & life reload
-- ...
+This boilerplate is in a pretty early stage.  
+So far its compiling typescript on the fly and you can write your tests in ts as well.  
+
+- `yarn start example` - runs the index.ts in the example folder
+- `yarn test` - runs your tests
+
+more stuff will come later on ...
+
 
 ### Videos
 
@@ -25,6 +31,9 @@ _TypeScript Boilerplate for Node.js Developers_
 
 - [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
 
+### @types
+
+- [@types](https://basarat.gitbooks.io/typescript/content/docs/types/@types.html)
 
 ### tslint.json
 
@@ -35,3 +44,7 @@ _TypeScript Boilerplate for Node.js Developers_
 - [compiler-options](https://www.typescriptlang.org/docs/handbook/compiler-options.html)
 - [tsconfig](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
 - [tsconfig schema](http://json.schemastore.org/tsconfig)
+
+## Others
+
+- [typestyle](https://github.com/typestyle/typestyle) - Making CSS Typesafe

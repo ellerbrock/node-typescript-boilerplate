@@ -1,5 +1,5 @@
 import { expect } from 'chai'
-import hello from '../src/index'
+// import * as hello from '../src/index'
 
 describe('Test Description', function () {
 

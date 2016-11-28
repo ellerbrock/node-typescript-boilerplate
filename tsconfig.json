@@ -2,7 +2,6 @@
   "compilerOptions": {
     "module": "commonjs",
     "target": "es6",
-    "pretty": true,
     "sourceMap": false,
     "outDir": "build",
     "types": [

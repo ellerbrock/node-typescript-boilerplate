@@ -1,5 +1,1 @@
-*.log
 build
-local
-node_modules
-todo.md

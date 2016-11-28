@@ -1,4 +1,4 @@
-import hello from '../src/index'
+import * as mod from '../src/index'
 
-const message = hello('Binary', 'Trust', 34)
+const message = mod.info('Binary', 'Trust', 34)
 console.log(message)

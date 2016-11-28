@@ -1,13 +1,3 @@
-export default hello;
-
-
-interface Ihello{
-    firstName: string
-    lastName: string
-    age: number
-}
-
-// default export
-function hello(firstName, lastName, age): Ihello {
-    return `Hello ${firstName} ${lastName}! (age: ${age})`;
+export function info(firstName: string, lastName: string, age: number) {
+  return `Hello ${firstName} ${lastName}! (age: ${age})`
 }
