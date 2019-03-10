@@ -2336,10 +2336,10 @@ normalize-path@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/normalize-path/-/normalize-path-2.0.1.tgz#47886ac1662760d4261b7d979d241709d3ce3f7a"
 
-npm-check-updates@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-3.0.0.tgz#1bd95e659f3faec9f862f285a0ef996952f2c50c"
-  integrity sha512-FARaXL65erWo8xgcQjMO1SeHA4K6mi4fxfYWG68S6iIrlaieZnK45x/R1ayQ1LNXsge/yxI3f7qwwt34NB/s1A==
+npm-check-updates@^3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-3.0.4.tgz#edce3df5526d1964556e99a871138db773b3091f"
+  integrity sha512-/grNV1oOhHWMRG38ylooCxFNDJ/AQAeGvt1ho7wBb3w4MM/FshRpBiweTZbLtp8RGnGTqRZg2V/bLevkbbm4Nw==
   dependencies:
     bluebird "^3.5.3"
     chalk "^2.4.2"
@@ -2356,6 +2356,7 @@ npm-check-updates@^3.0.0:
     requireg "^0.2.1"
     semver "^5.6.0"
     semver-utils "^1.1.4"
+    spawn-please "^0.3.0"
     update-notifier "^2.5.0"
 
 npm-run-path@^2.0.0:
@@ -3067,6 +3068,11 @@ source-map@^0.6.0:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
   integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
+
+spawn-please@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/spawn-please/-/spawn-please-0.3.0.tgz#db338ec4cff63abc69f1d0e08cee9eb8bebd9d11"
+  integrity sha1-2zOOxM/2Orxp8dDgjO6euL69nRE=
 
 spdx-correct@~1.0.0:
   version "1.0.2"
